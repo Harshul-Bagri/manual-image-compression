@@ -1,0 +1,1 @@
+This repository manually compresses images pixel by pixel using various techniques such as RLE, Huffman Encoding and DCT. JPEG Parsing is done with Pillow and the frontend is AI-generated through streamlit.
